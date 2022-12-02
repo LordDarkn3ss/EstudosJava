@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Book
- *
- */
-module EstudosArray {
-}
