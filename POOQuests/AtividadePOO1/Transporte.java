@@ -19,7 +19,7 @@ public class Transporte {
 		this.potencia = potencia;
 	}
 	
-	public double Consumo() {
+	public double consumo() {
 		return this.potencia * this.carga_maxima * 100;
 	}
 	

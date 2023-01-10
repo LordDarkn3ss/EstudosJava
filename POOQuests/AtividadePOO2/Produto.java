@@ -15,7 +15,7 @@ public class Produto {
 		this.validade = validade;
 	}
 	
-	public int GetCode() {
+	public int getCod() {
 		return this.id;
 	}
 	
