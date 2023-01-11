@@ -17,6 +17,6 @@ public class Produto {
 	
 	public int getCod() {
 		return this.id;
-	}
+	}	
 	
 }
